@@ -37,7 +37,7 @@
     <string name="desc_fun_arccos" msgid="7583077865497939123">"урвуу косинус"</string>
     <string name="desc_fun_arcsin" msgid="8592309261123302915">"урвуу синус"</string>
     <string name="desc_fun_arctan" msgid="6891388393360447455">"урвуу тангенс"</string>
-    <string name="desc_fun_10pow" msgid="3972646467174520812">"10 зэрэг"</string>
+    <string name="desc_fun_10pow" msgid="3972646467174520812">10-н зэрэг</string>
     <string name="desc_fun_exp" msgid="657106837530588390">"илтгэгч функц"</string>
     <string name="desc_op_sqr" msgid="693577095029219627">"квадрат"</string>
     <string name="desc_op_add" msgid="5539599782598050813">"нэмэх"</string>
@@ -68,11 +68,16 @@
     <string name="text_copied_toast" msgid="2104264466812485425">"Текстийг хуулсан"</string>
     <string name="cancelled" msgid="1618889609742874632">"Тооцооллыг цуцаллаа"</string>
     <string name="timeout" msgid="802690170415591535">"Хугацаа дууссан. Утга нь эсвэл хязгааргүй эсвэл тодорхойгүй байж болно."</string>
-    <string name="ok_remove_timeout" msgid="8344529153919268011">"Илүү урт хугацаа ашиглана уу"</string>
+    <string name="ok_remove_timeout" msgid="8344529153919268011">Илүү урт хугацаа ашиглах</string>
     <string name="dismiss" msgid="7872443888515066216">"Алгасах"</string>
     <string name="exact" msgid="2597237880041789948">"(Яг)"</string>
     <string name="approximate" msgid="7117143366610670836">"(сүүлийн оронд ±1)"</string>
     <string name="menu_leading" msgid="2338520833272667740">"Эхний орон"</string>
     <string name="menu_fraction" msgid="1247477377840252234">"Бутархай тоо"</string>
     <string name="menu_licenses" msgid="1890541368064108592">"Нээлттэй эхийн лиценз"</string>
+    <string name="no_history">Түүх байхгүй</string>
+    <string name="menu_history">Түүх</string>
+    <string name="menu_clear_history">Цэвэрлэх</string>
+    <string name="title_history">Түүх</string>
+    <string name="dialog_clear">Түүх болон санах ойг цэвэрлэх үү?</string>
 </resources>
